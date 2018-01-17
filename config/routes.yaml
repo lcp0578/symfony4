@@ -1,6 +1,3 @@
 #index:
 #    path: /
-#    defaults: { _controller: 'App\Controller\DefaultController::index' }
-hello_index:
-    path: /hello
-    defaults: { _controller: 'App\Controller\HelloController::index'}
+#    controller: App\Controller\DefaultController::index
